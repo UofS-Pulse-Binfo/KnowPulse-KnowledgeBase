@@ -1,0 +1,53 @@
+
+body {
+    background: url(https://knowpulse.usask.ca/sites/all/modules/custom/kp_frontpage/images/background/bg-main-top-foliage.jpg) repeat-x;
+    position: relative;
+    width: 100%;
+}
+.container {
+  background-color: rgba(255, 255, 255, 0.90);
+  margin-top: 60px;
+}
+nav.navbar {
+  background-color: #F7F7F7;
+  box-shadow: 0 16px 15px rgba(0,0,0,0.10), 0 5px 3px rgba(0,0,0,0.18);
+  border: 1px solid #D5D5D5;
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+div.container-fluid {
+  padding-left: 150px;
+}
+img.navbar-logo {
+  position: absolute;
+  z-index: 1;
+  margin: 15px;
+  padding-top:12px;
+  height: 125px;
+  width: 130px;
+}
+.nav-header {
+  background-color: #F7F7F7;
+  box-shadow: 0 16px 15px rgba(0,0,0,0.10), 0 5px 3px rgba(0,0,0,0.18);
+  border: 1px solid #D5D5D5;
+  padding-left: 150px;
+}
+.nav-header h1 {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.nav-header p {
+  font-size: 11px;
+  font-style: italic;
+}
+.footer-container {
+  background-color:#161617;
+  color: white;
+}
+footer {
+  width: 1170px;
+  padding: 40px 30px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 40px;
+}
